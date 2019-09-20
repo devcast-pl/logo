@@ -6,3 +6,6 @@ Logo for podcast, keywords: conversation, The exchange of experiences improvemen
 
 ![1.svg](1.svg)
 ![2.svg](2.svg)
+![3.svg](3.svg)
+![4.svg](4.svg)
+![10.svg](10.svg)
