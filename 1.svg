@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="86" height="30" style="">
+    <title>logo devcast.pl</title>
+    <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="#FFFFFF" stroke="none"/>
+    <g class="currentLayer" style="">
+        <title>Layer 1</title>
+<!--        <path fill="#4a90d6" fill-opacity="1" stroke="#222222"-->
+
+<!--              d="M218.8861037492752,93.38115274906158L115.2986631989479,200.55603712797165" id="svg_1"/>-->
+
+        D
+        <line x1="0" y1="0" x2="0" y2="20" stroke="green" />
+        <line x1="0" y1="0" x2="10" y2="10" stroke="blue" />
+        <line x1="10" y1="10" x2="0" y2="20" stroke="blue" />
+
+        E
+        <line x1="12" y1="10" x2="22" y2="20" stroke="green" />
+        <line x1="12" y1="10" x2="22" y2="0" stroke="blue" />
+        <line x1="15" y1="10" x2="22" y2="10" stroke="blue" />
+
+        V
+        <line x1="24" y1="0" x2="30" y2="20" stroke="green" />
+        <line x1="36" y1="0" x2="30" y2="20" stroke="blue" />
+
+        C
+        <line x1="38" y1="10" x2="48" y2="20" stroke="green" />
+        <line x1="38" y1="10" x2="48" y2="0" stroke="blue" />
+
+        A
+        <line x1="50" y1="20" x2="56" y2="0" stroke="green" />
+        <line x1="62" y1="20" x2="56" y2="0" stroke="blue" />
+        <line x1="55" y1="10" x2="57" y2="10" stroke="blue" />
+
+        S
+        <line x1="74" y1="0" x2="64" y2="10" stroke="green" />
+        <line x1="64" y1="10" x2="74" y2="20" stroke="blue" />
+        <line x1="74" y1="20" x2="64" y2="30" stroke="green" />
+
+
+        T
+        <line x1="81" y1="0" x2="81" y2="20" stroke="green" />
+<!--        <line x1="81" y1="5" x2="81" y2="15" stroke="green" />-->
+<!--        <line x1="77" y1="10" x2="85" y2="10" stroke="blue" />-->
+        <line x1="76" y1="10" x2="79" y2="9" stroke="blue" />
+        <line x1="79" y1="9" x2="83" y2="11" stroke="green" />
+        <line x1="83" y1="11" x2="86" y2="10" stroke="blue" />
+
+    </g>
+</svg>
